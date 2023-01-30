@@ -31,7 +31,7 @@ class local {
     const MIN_REGIONS   = [2, 3, 3, 4, 2];
     const MIN_CATEGORIES= [2, 2];
     const MAX_AUTHORS   = 2;
-    const BOOKS         = 20;
+    const BOOKS         = 25;
     const CLASSES       = [
         "a" => "Oktáva A",
         "b" => "Oktáva B",
